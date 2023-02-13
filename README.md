@@ -24,3 +24,6 @@ $ sudo bash LinuxForensics.sh
 
 ![image](https://user-images.githubusercontent.com/87453508/218552402-31081346-4c49-4c12-9be4-4f89d1c3cc3f.png)
 
+# Terminal view
+
+![image](https://user-images.githubusercontent.com/87453508/218553998-1d3905e9-5719-4a35-82f0-2629d18e5d0e.png)
