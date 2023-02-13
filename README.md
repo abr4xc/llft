@@ -10,12 +10,12 @@ Linux Live Forensics tool
                                                                                                    V 1.0
 ```                                                                                                           
                                                                                                             
-#ABOUT
+# ABOUT
 
 This Live Forensics to is a Linux command-line utility designed for performing live forensic analysis on a running system. It enables investigators to gather system information, analyze file systems for deleted and modified files, detect network connections and listening ports, list scheduled tasks for all users and gather other important information for analisis. The tool is designed to generate an HTML report summarizing the collected data and can be used to detect potential security threats, intrusions, or unauthorized activity on the system.It is easy to use, flexible, and customizable, and is intended for use by system administrators, security analysts, and forensic investigators.
 
-#Usage
-# Rudo the script as root to get all the information
+# Usage
+#Rudo the script as root to get all the information
 sudo bash LinuxForensics.sh 
 
 
