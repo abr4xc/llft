@@ -20,4 +20,7 @@ Rudo the script as root to get all the information
 $ sudo bash LinuxForensics.sh 
 
 ```
+# Report Sample
+
+![image](https://user-images.githubusercontent.com/87453508/218552402-31081346-4c49-4c12-9be4-4f89d1c3cc3f.png)
 
