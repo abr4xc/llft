@@ -7,6 +7,15 @@ Linux Live Forensics tool
  | |    | | '_ \| | | \ \/ / | |    | \ \ / / _ \  __/ _ \| '__/ _ \ '_ \/ __| |/ __/ __| | __/ _ \ / _ \| |
  | |____| | | | | |_| |>  <  | |____| |\ V /  __/ | | (_) | | |  __/ | | \__ \ | (__\__ \ | || (_) | (_) | |
  |______|_|_| |_|\__,_/_/\_\ |______|_| \_/ \___|_|  \___/|_|  \___|_| |_|___/_|\___|___/  \__\___/ \___/|_|
-                                                                                                            V 1.0
+                                                                                                   V 1.0
 ```                                                                                                           
                                                                                                             
+#ABOUT
+
+This Live Forensics to is a Linux command-line utility designed for performing live forensic analysis on a running system. It enables investigators to gather system information, analyze file systems for deleted and modified files, detect network connections and listening ports, list scheduled tasks for all users and gather other important information for analisis. The tool is designed to generate an HTML report summarizing the collected data and can be used to detect potential security threats, intrusions, or unauthorized activity on the system.It is easy to use, flexible, and customizable, and is intended for use by system administrators, security analysts, and forensic investigators.
+
+#Usage
+# Rudo the script as root to get all the information
+sudo bash LinuxForensics.sh 
+
+
